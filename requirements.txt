@@ -1,0 +1,7 @@
+pytest==6.2.3
+weditor==0.6.3
+uiautomator2
+tidevice
+facebook-wda
+opencv-python
+easyocr

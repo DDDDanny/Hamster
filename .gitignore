@@ -1,0 +1,8 @@
+.DS_Store
+*.pytest_cache/**/*
+.vscode
+.idea
+__pycache__
+.pytest_cache
+AirTest/**/*
+Log/**/*
