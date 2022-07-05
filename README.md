@@ -77,6 +77,8 @@ Hamster是一个基于PO模型的移动端应用UI自动化测试框架。他是
 
 ### ToDo List
 
+作为框架来说，Hamster还远远不够完美，为了让Hamster更加优秀，希望有兴趣的朋友能加入进来，能够提出一些宝贵的建议，如果能和我一起参与开发那就再好不过了！
+
 - [ ] 提供默认测试报告
 - [ ] 更轻量级
 - [ ] ……
@@ -86,3 +88,4 @@ Hamster是一个基于PO模型的移动端应用UI自动化测试框架。他是
 [uiautomator2](https://github.com/openatx/uiautomator2)
 
 [WDA](https://github.com/openatx/facebook-wda)
+
