@@ -1,7 +1,6 @@
 <div>
-  <p align="center"><img src="Hamster.png" style="zoom:20%;width:50%;" /></p>
+  <p align="center"><img src="HamsterNew.png" style="zoom:20%;width:50%;" /></p>
 </div>
-****
 
 #### 文件目录
 
