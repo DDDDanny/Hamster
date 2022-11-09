@@ -33,7 +33,7 @@ class InitDriver:
         return wda.USBClient(device_info['id'], port=device_info['port'])
 
     # 设备池
-    def devices_pool(self):
+    def pool_of_devices(self):
         """ 设备池 """
         cmd = r'adb devices'
         res = subprocess.Popen(cmd, stdout=subprocess.PIPE, shell=True)
