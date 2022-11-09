@@ -83,6 +83,8 @@ Hamster是一个基于PO模型的移动端应用UI自动化测试框架。他是
 - [ ] 更轻量级
 - [ ] ……
 
+更加详细的内容请关注我的博客：[MintBlue](https://www.mintblue.top/)
+
 ### 特别感谢
 
 [uiautomator2](https://github.com/openatx/uiautomator2)
